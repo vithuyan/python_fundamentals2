@@ -1,4 +1,5 @@
 def have_eight_letter(my_string):
-    return len(my_string) >= 8
+    if len(my_string) >= 8
+    return True
 
 print (have_eight_letter("hello"))
